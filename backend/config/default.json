@@ -1,8 +1,8 @@
 {
     "errror_code": {},
     "gcp": {
-        "bucket_name": "icard-test-image-bucket",
-        "project_id": "icard-web-dev"
+        "bucket_name": "isa-icard-image",
+        "project_id": "isa-icard-401616"
     },
     "flags": {
         "vendors": {
